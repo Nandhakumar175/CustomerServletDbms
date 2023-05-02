@@ -36,7 +36,8 @@ Customer Index Pages
 
 5) Write select query to pull only an active status customer.
 
-<img width="767" alt="Screenshot 2023-05-02 175409" src="https://user-images.githubusercontent.com/113417088/235665237-0148dc2c-3692-4f7e-be09-2bc8a9d6cc4d.png">
+<img width="786" alt="Screenshot 2023-05-02 180500" src="https://user-images.githubusercontent.com/113417088/235667507-e2154050-07b6-4734-a23c-7de612abd222.png">
+
 
 
 6)  • Write query to pull all active customers with only the home address type address record.
