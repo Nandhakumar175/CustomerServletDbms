@@ -6,7 +6,8 @@ Customer Index Pages
 
 1.1) • Create servlet page in "tb_customer" table. Columns: id, name, code, email, phone, contact_person_name, contact_person_phone, status, created_date, created_by, modified_date, modified_by.
 
-<img width="871" alt="Screenshot 2023-05-02 165158" src="https://user-images.githubusercontent.com/113417088/235655568-3eef0116-0ce5-47b8-b44f-0722394bf464.png">
+<img width="959" alt="Screenshot 2023-05-02 180334" src="https://user-images.githubusercontent.com/113417088/235667248-3978914d-1826-4d3d-9358-268d8fca6077.png">
+
 
 1.2)   • Create servlet page "tb_customer_address" table. Columns: id, customer_id, address_type, address_line1, address_line2, city, state,country,postal_code. Add unique constraints for customer_id and address_type column.
 
